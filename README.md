@@ -1,6 +1,6 @@
 # MERN-Stack-Todo-App
 
-How to run
+__How to run__
 1. mern-stack/backend => nodemon server
 2. mern-stack/mern-todo-app => mongod
 3. mern-stack/mern-todo-app => npm start
